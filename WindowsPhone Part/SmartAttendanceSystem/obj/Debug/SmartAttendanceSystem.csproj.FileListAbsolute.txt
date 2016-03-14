@@ -1,0 +1,121 @@
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.dll
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.pdb
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\AppManifest.xaml
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem_Debug_AnyCPU.xap
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\App.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\MainPage.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.g.resources
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.Resources.AppResources.resources
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.csproj.GenerateResource.Cache
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.dll
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.pdb
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\XapCacheFile.xml
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\ChangePassword\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\ForgetPassword\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\LecClassList\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\LecClassStatistic\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\LecCourseList\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\LecStuAttendance\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\LecStuMovement\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\LecWelcome\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\StuClassList\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\StuCourseList\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\StuMovement\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\StuWelcome\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.dll.config
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.csprojResolveAssemblyReference.cache
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\SmartAttendanceSystem\SmartAttendanceSystem\obj\Debug\Test\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.dll.config
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.pdb
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\AppManifest.xaml
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem_Debug_AnyCPU.xap
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.csprojResolveAssemblyReference.cache
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\App.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\ChangePassword\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\ForgetPassword\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecClassList\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecClassStatistic\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecCourseList\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecStuAttendance\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecStuMovement\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecWelcome\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\MainPage.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuClassList\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuCourseList\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuMovement\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuWelcome\Default.g.cs
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.g.resources
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.Resources.AppResources.resources
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.csproj.GenerateResource.Cache
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.dll
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.pdb
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\XapCacheFile.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.dll.config
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem.pdb
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\AppManifest.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\SmartAttendanceSystem_Debug_AnyCPU.xap
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.Phone.Toolkit.Testing.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Phone.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.csprojResolveAssemblyReference.cache
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\App.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\ChangePassword\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\ForgetPassword\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecClassList\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecClassStatistic\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecCourseList\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecStuAttendance\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecStuMovement\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\LecWelcome\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\MainPage.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuClassList\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuCourseList\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuMovement\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\StuWelcome\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.g.resources
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.Resources.AppResources.resources
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.csproj.GenerateResource.Cache
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.dll
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\SmartAttendanceSystem.pdb
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\WindowsPhone Part\SmartAttendanceSystem\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,90 @@
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\bin\Debug\RFID_New.exe.config
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\bin\Debug\RFID_New.exe
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\bin\Debug\RFID_New.pdb
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\bin\Debug\MySql.Data.dll
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\obj\Debug\RFID_New.Form1.resources
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\obj\Debug\RFID_New.exe
+c:\users\zm\documents\visual studio 2013\Projects\RFID_New\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\bin\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\bin\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\bin\Debug\MySql.Data.dll
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\obj\Debug\RFID_New.Form1.resources
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+C:\Users\ZM\Desktop\FYP\RFID_New\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\bin\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\bin\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\bin\Debug\MySql.Data.dll
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\obj\Debug\RFID_New.Form1.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140402\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\bin\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\bin\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\bin\Debug\MySql.Data.dll
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\obj\Debug\RFID_New.Form1.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140407\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+C:\Users\ZM\Desktop\FYP\old version\RFID_New20140408.3\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZM\Desktop\FYP\old version\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\old version\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\bin\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\bin\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\bin\Debug\MySql.Data.dll
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.Form1.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140408.3\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\bin\Debug\RFID_New.exe
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\bin\Debug\RFID_New.pdb
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\bin\Debug\MySql.Data.dll
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\obj\Debug\RFID_New.Form1.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+C:\Users\ZM\Desktop\FYP\RFID_New20140410\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\bin\Debug\RFID_New.exe
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\bin\Debug\RFID_New.pdb
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\obj\Debug\RFID_New.Form1.resources
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+C:\Users\COMPAQ\Desktop\RFID_New20140410\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\bin\Debug\RFID_New.exe.config
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\obj\Debug\RFID_New.exe
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\obj\Debug\RFID_New.pdb
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\bin\Debug\RFID_New.exe
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\bin\Debug\RFID_New.pdb
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\obj\Debug\RFID_New.csprojResolveAssemblyReference.cache
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\obj\Debug\RFID_New.Form1.resources
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\obj\Debug\RFID_New.Properties.Resources.resources
+D:\zhimeng\FinalProject20140514\RFID_New20140515\RFID_New\obj\Debug\RFID_New.csproj.GenerateResource.Cache
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\RFID Part\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\RFID Part\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\RFID Part\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\RFID Part\Project\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\RFID Part\Project\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZHI MENG\Desktop\ZhiMeng_Smart Attendance System\RFID Part\Project\RFID_New\obj\Debug\RFID_New.pdb
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\RFID Part\Project\RFID_New\bin\Debug\RFID_New.exe.config
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\RFID Part\Project\RFID_New\obj\Debug\RFID_New.exe
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\RFID Part\Project\RFID_New\obj\Debug\RFID_New.pdb

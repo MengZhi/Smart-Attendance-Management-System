@@ -1,0 +1,25 @@
+﻿.lbBottom {
+            font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+            font-size: 10px;
+            color: #666;
+            line-height: 1.4em;
+            text-align: left;
+            border: 10px solid #fff;
+            border-top-style: none;
+        }
+
+        .button {
+            height: 2.142em;
+            min-width: 6em;
+            font-family: "Segoe UI Semibold", "Segoe UI Web Semibold", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol","HelveticaNeue-Medium", "Helvetica Neue", Arial, sans-serif;
+            font-weight: normal;
+            font-size: 100%;
+            background-color: #0072C6;
+            color: #212121;
+            padding: 3px 12px 5px;
+            border: 0px;
+        }
+
+        .default {
+            background-color: #0072C6;
+        }

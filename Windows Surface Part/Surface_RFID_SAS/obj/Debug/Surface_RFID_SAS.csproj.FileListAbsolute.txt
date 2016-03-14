@@ -1,0 +1,243 @@
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.g.i.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.g.i.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\XamlTypeInfo.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.xaml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\XamlSaveStateFile.xml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.xaml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.g.i.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.xaml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\App.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\MainPage.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\StuWelcome\Default.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.exe
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.pdb
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\resources.pri
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\AppxManifest.xml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.build.appxrecipe
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\Surface_RFID_SAS.exe
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\Surface_RFID_SAS.pdb
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\priconfig.xml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\priconfig.xml.intermediate
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\layout.resfiles
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\layout.resfiles.intermediate
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\resources.resfiles
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\resources.resfiles.intermediate
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\pri.resfiles
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\pri.resfiles.intermediate
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\qualifiers.txt
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\qualifiers.txt.intermediate
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ProjectArchitectures.txt
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecWelcome\Default.xbf
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.g.i.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.g.cs
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.xaml
+c:\users\zhi meng\documents\visual studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\ForgetPassword\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\ChangePassword\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecCheckAttendance\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\StuAttendanceList\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\ClassStatistic\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecCheckMovement\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecChooseCourseClass\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\StuMovement\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.g.i.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.g.cs
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.xaml
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.xbf
+C:\Users\ZHI MENG\Documents\Visual Studio 2013\Projects\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\App.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\ChangePassword\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\ClassStatistic\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\ForgetPassword\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecCheckAttendance\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecCheckMovement\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecChooseCourseClass\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\LecWelcome\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\MainPage.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\StuAttendanceList\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\StuMovement\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\StuWelcome\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.exe
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.pdb
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\resources.pri
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\AppxManifest.xml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.build.appxrecipe
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.g.i.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\XamlTypeInfo.g.cs
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.xaml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\App.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MainPage.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuMovement\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.xbf
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\XamlSaveStateFile.xml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\Surface_RFID_SAS.exe
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\Surface_RFID_SAS.pdb
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\priconfig.xml
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\priconfig.xml.intermediate
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\layout.resfiles
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\layout.resfiles.intermediate
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\resources.resfiles
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\resources.resfiles.intermediate
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\pri.resfiles
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\pri.resfiles.intermediate
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\qualifiers.txt
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\qualifiers.txt.intermediate
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\FYP\Backup\FinalProject20140515\Surface_RFID_SAS\Surface_RFID_SAS\obj\Debug\ProjectArchitectures.txt
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\App.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\ChangePassword\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\ClassStatistic\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\ForgetPassword\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\LecCheckAttendance\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\LecCheckMovement\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\LecChooseCourseClass\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\LecWelcome\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\MainPage.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\StuAttendanceList\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\StuMovement\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\StuWelcome\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.exe
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.pdb
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\resources.pri
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\AppxManifest.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\Debug\Surface_RFID_SAS.build.appxrecipe
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\App.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\App.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\MainPage.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\MainPage.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuMovement\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuMovement\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.g.i.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\App.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\MainPage.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuMovement\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.xaml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\App.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ChangePassword\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ClassStatistic\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ForgetPassword\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckAttendance\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecCheckMovement\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecChooseCourseClass\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\LecWelcome\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\MainPage.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuAttendanceList\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuMovement\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\StuWelcome\Default.xbf
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\Surface_RFID_SAS.exe
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\Surface_RFID_SAS.pdb
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\priconfig.xml
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\priconfig.xml.intermediate
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\layout.resfiles
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\layout.resfiles.intermediate
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\resources.resfiles
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\resources.resfiles.intermediate
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\pri.resfiles
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\pri.resfiles.intermediate
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\qualifiers.txt
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ZHI MENG\Google Drive\4.2\CAT400(2)\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\obj\Debug\ProjectArchitectures.txt

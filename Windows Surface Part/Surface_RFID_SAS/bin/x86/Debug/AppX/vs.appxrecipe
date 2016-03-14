@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZHIMENG</Machine>
+    <WindowsUser>ZHI MENG</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>da073463-a43e-4c83-9755-11b70c252edb</PackageIdentityName>
+    <RegisteredManifestChecksum>8FAC3007F7930C5B07211375BC327C40C988EF3E46D69351E5DD2F77DD393EE7</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-24T14:13:59.876</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\Surface_RFID_SAS.exe">
+      <PackagePath>Surface_RFID_SAS.exe</PackagePath>
+      <Modified>2014-06-24T14:13:59.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-05-10T12:58:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\ChangePassword\Default.xbf">
+      <PackagePath>ChangePassword\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\ClassStatistic\Default.xbf">
+      <PackagePath>ClassStatistic\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\ForgetPassword\Default.xbf">
+      <PackagePath>ForgetPassword\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\LecCheckAttendance\Default.xbf">
+      <PackagePath>LecCheckAttendance\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\LecCheckMovement\Default.xbf">
+      <PackagePath>LecCheckMovement\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\LecChooseCourseClass\Default.xbf">
+      <PackagePath>LecChooseCourseClass\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\LecWelcome\Default.xbf">
+      <PackagePath>LecWelcome\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\StuAttendanceList\Default.xbf">
+      <PackagePath>StuAttendanceList\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\StuMovement\Default.xbf">
+      <PackagePath>StuMovement\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\StuWelcome\Default.xbf">
+      <PackagePath>StuWelcome\Default.xbf</PackagePath>
+      <Modified>2014-06-24T14:13:59.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ZHI MENG\Google Drive\4.2\CAT400%282%29\ZhiMeng_Smart Attendance System\Windows Surface Part\Surface_RFID_SAS\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-24T14:13:59.720</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

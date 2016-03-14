@@ -1,0 +1,42 @@
+﻿<Application
+    x:Class="SmartAttendanceSystem.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    xmlns:nav="clr-namespace:System.Windows.Navigation;assembly=Microsoft.Phone">
+
+    <!--Application Resources-->
+    <Application.Resources>
+        <!--<local:LocalizedStrings xmlns:local="clr-namespace:SmartAttendanceSystem" x:Key="LocalizedStrings"/>-->
+        <local:LocalizedStrings xmlns:local="clr-namespace:SmartAttendanceSystem" x:Key="LocalizedStrings"/>
+        <nav:UriMapper x:Key="UriMapper">
+            <nav:UriMapper.UriMappings>
+
+                <nav:UriMapping Uri="/ForgetPassword" MappedUri="/ForgetPassword/Default.xaml"/>
+                <nav:UriMapping Uri="/LecWelcome" MappedUri="/LecWelcome/Default.xaml"/>
+                <nav:UriMapping Uri="/LecCheckAttendance" MappedUri="/LecCourseList/Default.xaml"/>
+                <nav:UriMapping Uri="/StuWelcome" MappedUri="/StuWelcome/Default.xaml"/>
+                <nav:UriMapping Uri="/StuCheckAttendance" MappedUri="/StuCourseList/Default.xaml"/>
+                <nav:UriMapping Uri="/StuCourseList" MappedUri="/StuClassList/Default.xaml"/>
+                <nav:UriMapping Uri="/StuClassList" MappedUri="/StuMovement/Default.xaml"/>
+                <nav:UriMapping Uri="/LecCourseList" MappedUri="/LecClassList/Default.xaml"/>
+                <nav:UriMapping Uri="/LecClassList" MappedUri="/LecStuAttendance/Default.xaml"/>
+                <nav:UriMapping Uri="/ChangePassword" MappedUri="/ChangePassword/Default.xaml"/>
+                <nav:UriMapping Uri="/LecStatistic" MappedUri="/LecClassStatistic/Default.xaml"/>
+                <nav:UriMapping Uri="/StuMovement" MappedUri="/LecStuMovement/Default.xaml"/>
+                <nav:UriMapping Uri="/MainPage" MappedUri="/MainPage.xaml"/>
+                
+            </nav:UriMapper.UriMappings>
+        </nav:UriMapper>
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Required object that handles lifetime events for the application-->
+        <shell:PhoneApplicationService
+            Launching="Application_Launching" Closing="Application_Closing"
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>
